@@ -12,7 +12,7 @@ Welcome to the most _incredible_, _astonishing_, and *blazingly fast*⚡ contact
 ## 🚀 Getting Started
 
 1. **Clone** this repository faster than a cheetah chasing its dinner. 🐆💨
-2. **Compile** the code with the power of a supernova. ☀️💥
+2. **Compile** the most amazing coolest bestest code your machine ever had the pleasure of touching. ☀️💥 (actually compile agenda2.0.c cuz agenda.c is trash)
 3. **Run** the program and watch as your contacts are managed at warp speed. 🚀💫
 
 ## 🤝 Contributing
